@@ -1,0 +1,19 @@
+h2 {
+  font-size: 18px;
+}
+h1 {
+  text-align: center;
+}
+
+.letter {
+  display:none;
+  margin: 20px 30px 0px;
+}
+
+.letterHeader p {
+  line-height: 4px;
+  padding-top: 20px;
+}
+.letterBody {
+  text-align: justify;
+}
